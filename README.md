@@ -15,6 +15,11 @@
 
 Link to current websites is `https://<SUNTiantong>.github.io`
 
+[View CV_STT.pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main/CV_STT.pdf)
+
+[View transcript.pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main//transcript.pdf)
+
+[View U202110121_Certificate(with an official seal).pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main//U202110121_Certificate(with%20an%20official%20seal).pdf)
 
 
 ## License
