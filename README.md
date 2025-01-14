@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Link to current websites is `[https://<SUNTiantong>.github.io](https://github.com/SUNTiantong/SunTiantong.github.io)`
+Link to current website is [https://github.com/SUNTiantong/SunTiantong.github.io](https://github.com/SUNTiantong/SunTiantong.github.io)
 
 [View CV_STT.pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main/CV_STT.pdf)
 
