@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Link to current websites is `https://<SUNTiantong>.github.io`
+Link to current website is [https://github.com/SUNTiantong/SunTiantong.github.io](https://github.com/SUNTiantong/SunTiantong.github.io)
 
 [View CV_STT.pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main/CV_STT.pdf)
 
@@ -21,6 +21,9 @@ Link to current websites is `https://<SUNTiantong>.github.io`
 
 [View U202110121_Certificate(with an official seal).pdf](https://github.com//SUNTiantong/SUNTiantong.github.io/blob/main//U202110121_Certificate(with%20an%20official%20seal).pdf)
 
+[View paper_for_COMAP.pdf](https://github.com/SUNTiantong/SUNTiantong.github.io/blob/main/paper_for_COMAP.pdf)
+
+[View Award_Proof.pdf](https://github.com/SUNTiantong/SUNTiantong.github.io/blob/main/Award_Proof.pdf)
 
 ## License
 
