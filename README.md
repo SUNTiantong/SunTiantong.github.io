@@ -7,9 +7,6 @@
 
 # A simple Github Pages template for academic personal website.
 
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/SUNTiantong/SUNTiantong.github.io/main/screenshot_full.png)](https://SUNTiantong.github.io/)
-
 
 ## Introduction
 
@@ -24,6 +21,10 @@ Link to current website is [https://github.com/SUNTiantong/SunTiantong.github.io
 [View paper_for_COMAP.pdf](https://github.com/SUNTiantong/SUNTiantong.github.io/blob/main/paper_for_COMAP.pdf)
 
 [View Award_Proof.pdf](https://github.com/SUNTiantong/SUNTiantong.github.io/blob/main/Award_Proof.pdf)
+
+
+## Preview
+[![Screenshot of the Website](https://raw.githubusercontent.com/SUNTiantong/SUNTiantong.github.io/main/screenshot_full.png)](https://SUNTiantong.github.io/)
 
 ## License
 
